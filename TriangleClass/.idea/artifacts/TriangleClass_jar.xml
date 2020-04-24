@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TriangleClass:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TriangleClass_jar</output-path>
+    <root id="archive" name="TriangleClass.jar">
+      <element id="module-output" name="TriangleClass" />
+    </root>
+  </artifact>
+</component>
